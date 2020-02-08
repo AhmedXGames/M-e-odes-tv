@@ -21,7 +21,7 @@ const prefix = "1";// برافكس بوت
 
 
 const client = new Discord.Client({ disableEveryone: true});
-const ownerID = ["541532350719459348"]; // اى دى صاحب بوت
+const ownerID = ["578205429637709824"]; // اى دى صاحب بوت
 
 
 client.commands = new Discord.Collection();
